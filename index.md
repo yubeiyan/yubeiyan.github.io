@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 余北燕的网站
-description: "余北燕的网站"
+description: "余北燕, yubeiyan, 余北燕的网站，余北燕的博客，beiyan, 道法自然"
 ---
 {% include JB/setup %}
 
